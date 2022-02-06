@@ -1,0 +1,202 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #53545B;
+    
+    
+}
+.head{
+    font-weight: bold;
+    font-size: 65px;
+    font-family: 'Gideon Roman', cursive;
+    border-left: red solid 2px;
+    
+}
+#black{
+    padding-left: 10px;
+    color: black;
+}
+#orange{
+    padding-left: 10px;
+    margin-top: -60px;
+    color: orange;
+    margin-bottom: 30px;
+}
+.part-one{
+    margin:auto ;
+    width:42%;
+    margin-left: 7%;
+}
+.first-part{
+    display: flex;
+}
+.part-one img{
+    width: 80%;
+}
+#image-one{
+    margin-left: -20px;
+}
+.button{
+    text-decoration: none;
+    width:120px;
+    height: 20px;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    background-image: linear-gradient(tomato,orange);
+}
+#lpart{
+    margin-top: 40px;
+}
+#mpart{
+    padding-top: -20px;
+}
+.part-two{
+    display: flex;
+}
+.two-one{
+    width:28%;
+    background-color: antiquewhite;
+    margin-right: 2%;
+    border-radius: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.two-one img{
+    width:40%;
+    text-align: center;
+    
+}
+.second-part{
+    margin-left: 7%;
+    margin-right: 3%;  
+    line-height: 150%;
+    
+}
+.second-part-head{
+    text-align: center;
+    font-size: 30px;
+    padding-right: 3%;
+    margin-bottom: 7%;
+    margin-top: 8%;
+}
+#id-two-one{
+    background-color:#EBEDEF;
+}
+#id-two-one img{
+    padding-bottom: 3%;
+}
+#id-two-two{
+    background-color: #FDEDEC;
+}
+#my_mission_in{
+    color:#000080;
+}
+#mission{
+    font-size: 150%;
+    color: black;
+    margin-top: 2px;
+    font-weight: bold;
+    margin-bottom: -1px;
+}
+.third-part{
+    display: flex;
+    margin-top:10%;
+    margin-left: 7%;
+    margin-right: 5%;
+
+}
+.third-part img{
+    width:90%;
+    height: 80%;
+    
+}
+.develop{
+    margin-top: 4%;
+    font-size: 200%;
+    
+    font-weight: bold;
+    color: black;
+}
+#develop2{
+    margin-top: -8px;
+    margin-bottom: -2px;
+}
+.part-three{
+    width:40%;
+}
+#part-three-para{
+    font-size: 18px;
+    margin-left: 0.1%;;
+}
+.part-three-div-one{
+    width:60%;
+    padding-left: 2%;
+}
+#button2{
+    width:30%;
+}
+.fourth{
+    padding-right: 12%;
+}
+.image{
+    height: 30%;
+    margin-top: -3%;
+}
+.fourth-part{
+    margin-top: 3%;
+}
+.fifth-head{
+    margin-bottom: -4%;
+}
+.fifth{
+    margin-left: 12%;
+    padding-left: 4%;
+    background-repeat: no-repeat;
+    background-image: url(images/shapes/shape-3.png);
+    background-size: 15%;
+    
+    
+}
+.fifth img{
+    width: 70%;
+    height: 90%;
+    padding-top: 6%;
+}
+.stay{
+    padding-top: 12%;
+    font-size: 40px;
+}
+.go1{
+    font-size: 40px;
+}
+.go{
+    color: orange;
+    font-size: 40px;
+}
+.forth-two{
+    padding-right: 2%;
+}
+.footer{
+    background-color:#0C090A;
+    width: 110%;
+    color: white;
+    text-align: center;
+    margin-left: -5%;
+    padding-top: 5%;
+    font-size: 15px;
+    height: 120px;
+    margin-bottom: -2%;
+    
+    margin-right: -2%;
+
+}
+.footer span{
+    font-size: 25px;
+    font-style: italic;
+}
